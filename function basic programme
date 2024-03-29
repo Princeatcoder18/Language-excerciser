@@ -1,0 +1,5 @@
+def example():
+     for i in range(5):
+         print("santhi",end=' ')
+
+example()
